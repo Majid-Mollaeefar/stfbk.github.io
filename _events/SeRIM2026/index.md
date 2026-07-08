@@ -15,6 +15,7 @@ image: /assets/areas/events/SeRIM2026/serim2026.jpg
 
 # Recent News
 
+- **08/07/2026**: The [program](program) has been updated.
 - **03/06/2026**: The [tentative program](program) has been published.
 - **25/05/2026**: The list of presentations have been published.
 - **10/04/2026**: The deadline for the submission of the camera ready has been extended to **April 21, 2026**.

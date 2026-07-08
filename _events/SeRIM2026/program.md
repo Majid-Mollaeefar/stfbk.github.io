@@ -34,7 +34,7 @@ menubar: SeRIM2026
   <tr class="session">
     <td colspan="2">
       <p class="title">Session 1: Regular Papers</p>
-      <!--<p class="chair"></p>-->
+      <p class="chair">Giada Sciarretta</p>
     </td>
   </tr>
   <tr>
@@ -59,17 +59,31 @@ menubar: SeRIM2026
     <td>10:25-10:45</td>
   </tr>
 
+  <tr class="session">
+    <td colspan="2">
+      <p class="title">Session 2: Short Papers I</p>
+      <p class="chair">Matteo Busi</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="talk">
+      <p class="title">A Formal Risk-Cost Model for Adaptive Authentication in Financial Systems</p>
+      <p class="speakers">Supriya Khadka, Sanchari Das (George Mason University)</p>
+    </td>
+    <td>10:45-11:00</td>
+  </tr>
+
   <tr class="recreational">
     <td>
       Coffee Break
     </td>
-    <td>10:45-11:15</td>
+    <td>11:00-11:30</td>
   </tr>
 
   <tr class="session">
     <td colspan="2">
-      <p class="title">Session 2: Keynote</p>
-      <!--<p class="chair"></p>-->
+      <p class="title">Session 3: Keynote</p>
+      <p class="chair">Marco Pernpruner</p>
     </td>
   </tr>
   <tr>
@@ -81,7 +95,7 @@ menubar: SeRIM2026
       </p>
       <p class="speakers">Prof. Luca Viganò (King's College London)</p>
     </td>
-    <td>11:15-12:15</td>
+    <td>11:30-12:30</td>
   </tr>
 
   <tr class="recreational">
@@ -93,37 +107,30 @@ menubar: SeRIM2026
 
   <tr class="session">
     <td colspan="2">
-      <p class="title">Session 3: Short Papers</p>
-      <!--<p class="chair"></p>-->
+      <p class="title">Session 4: Short Papers II</p>
+      <p class="chair">Matteo Busi</p>
     </td>
-  </tr>
-  <tr>
-    <td class="talk">
-      <p class="title">A Formal Risk-Cost Model for Adaptive Authentication in Financial Systems</p>
-      <p class="speakers">Supriya Khadka, Sanchari Das (George Mason University)</p>
-    </td>
-    <td>14:00-14:15</td>
   </tr>
   <tr>
     <td class="talk">
       <p class="title">ARF-RT: Correlation-Aware Probe Planning for Cloud Identity Attack Paths</p>
       <p class="speakers">Eric Conklin (Independent)</p>
     </td>
-    <td>14:15-14:30</td>
+    <td>14:00-14:15</td>
   </tr>
   <tr>
     <td class="talk">
       <p class="title">Authenticating and Authorizing the Caller: A Defense Mechanism Against Caller ID Spoofing</p>
       <p class="speakers">Salem Wollel, Sanna Suoranta, Otto Seppälä (Aalto University)</p>
     </td>
-    <td>14:30-14:45</td>
+    <td>14:15-14:30</td>
   </tr>
 
   <tr class="institutional">
     <td>
       Closing Remarks
     </td>
-    <td>14:45-15:00</td>
+    <td>14:30-14:45</td>
   </tr>
 
   <tr class="recreational">
